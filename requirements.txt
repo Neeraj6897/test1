@@ -1,0 +1,9 @@
+requests
+langchain
+chromadb
+tiktoken
+python-dotenv
+langchain_groq
+langchain_community
+langchain_core
+langchain_huggingface
