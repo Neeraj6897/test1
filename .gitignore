@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 github_api_uses.ipynb
+=======
+>>>>>>> c2d40d10322942a59d2d29961d9a442401e3e3ab
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,7 +133,10 @@ celerybeat.pid
 
 # Environments
 .env
+<<<<<<< HEAD
 
+=======
+>>>>>>> c2d40d10322942a59d2d29961d9a442401e3e3ab
 .venv
 env/
 venv/
